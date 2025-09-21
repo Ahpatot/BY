@@ -1,65 +1,74 @@
-Photo → Text Mosaic
+🎨 Photo → Text Mosaic
 
-Transform your text into beautiful mosaics using your own images for background and text tiles. Fully interactive GUI tool built with Python Tkinter and Pillow.
+Turn your text into stunning image mosaics! Fill text with your own images, add custom backgrounds, and create artistic compositions—right from a GUI app. 🖼️✨
 
-Features
+<!-- Replace with actual screenshot -->
 
-Text to Mosaic – Create text using your chosen images.
+✨ Features
 
-Custom Background – Use multiple background images with adjustable grid and color intensity.
+📝 Text-to-Image Mosaic – Convert any text into a mosaic made from your chosen images.
 
-Text Tile Images – Fill your text with images, adjusting color and size.
+🖼️ Custom Backgrounds – Use multiple images to create a beautiful backdrop.
 
-Multi-Line Text Support – Use Shift+Enter for line breaks.
+🌈 Text Tiles – Fill your text with images, adjust size and color intensity.
 
-Adjustable Line Spacing – Control vertical spacing between lines.
+↩️ Multi-Line Text Support – Use Shift+Enter for line breaks.
 
-Custom Canvas Size – Define width and height of the output image.
+↕️ Adjustable Line Spacing – Control vertical spacing between lines.
 
-Live Preview – See the mosaic in-app before saving.
+📐 Canvas Control – Choose custom width and height for your artwork.
 
-Save to PNG – Easily export creations.
+👀 Live Preview – See changes in real time before saving.
 
-Installation
+💾 Save as PNG – Export your creations easily.
+
+🛠️ Installation
+
+Clone the repository:
+
 git clone https://github.com/yourusername/photo-to-text.git
 cd photo-to-text
+
+
+Install dependencies:
+
 pip install pillow
 
-Usage
 
 Run the app:
 
 python Photo_to_text.py
 
+⚡ How to Use
 
-Load background images and text tile images.
+Load background images and text tile images 🖼️.
 
-Enter your text (use Shift+Enter for new lines).
+Enter your text (use Shift+Enter for multiple lines) ✍️.
 
 Adjust settings:
 
-Canvas width & height
+Canvas width & height 📐
 
-Font size
+Font size 🔤
 
-Tile size for text
+Text tile size 🟦
 
-Background grid size
+Background grid size 🔲
 
-Line spacing
+Line spacing ↕️
 
-Color adjustments for text and background
+Color adjustments for background and text 🎨
 
-Click Generate to preview the mosaic.
+Click Generate to preview 👀.
 
-Click Save to export as PNG.
+Click Save to export 💾.
 
-Supported Formats
+📁 Supported Formats
 
 PNG, JPG, JPEG, BMP
 
-Notes
+⚠️ Notes
 
-Large canvas sizes with small tile sizes may take longer to generate.
+Large canvas sizes or very small tile sizes may take longer to generate ⏳.
 
-Font fallback: If arial.ttf is not found, a default PIL font is used.
+Font fallback: If arial.ttf is not available, a default Pillow font will be used 🔤.
