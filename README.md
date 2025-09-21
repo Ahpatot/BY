@@ -1,37 +1,31 @@
-🎨 Photo → Text Mosaic
+🖼️ Photo → Text Mosaic (GUI)
 
-Turn your text into stunning image mosaics! Fill text with your own images, add custom backgrounds, and create artistic compositions—right from a GUI app. 🖼️✨
+A Python GUI tool that turns text into stunning mosaics using your own images for both text tiles and backgrounds.
 
-<!-- Replace with actual screenshot -->
+🚀 Features
 
-✨ Features
+📝 Text-to-Image Mosaic – Convert any text into a mosaic made from images.
 
-📝 Text-to-Image Mosaic – Convert any text into a mosaic made from your chosen images.
+🖼️ Custom Backgrounds – Use multiple images to create a dynamic backdrop.
 
-🖼️ Custom Backgrounds – Use multiple images to create a beautiful backdrop.
-
-🌈 Text Tiles – Fill your text with images, adjust size and color intensity.
+🌈 Text Tiles – Fill text with images and adjust their size and color intensity.
 
 ↩️ Multi-Line Text Support – Use Shift+Enter for line breaks.
 
-↕️ Adjustable Line Spacing – Control vertical spacing between lines.
+↕️ Adjustable Line Spacing – Control spacing between text lines.
 
-📐 Canvas Control – Choose custom width and height for your artwork.
+📐 Canvas Control – Set the width and height of your output image.
 
-👀 Live Preview – See changes in real time before saving.
+👀 Live Preview – See the mosaic in real-time inside the app.
 
-💾 Save as PNG – Export your creations easily.
+💾 Save as PNG – Export your artwork easily.
 
 🛠️ Installation
 
-Clone the repository:
+Clone the repository and install dependencies:
 
 git clone https://github.com/yourusername/photo-to-text.git
 cd photo-to-text
-
-
-Install dependencies:
-
 pip install pillow
 
 
@@ -57,7 +51,7 @@ Background grid size 🔲
 
 Line spacing ↕️
 
-Color adjustments for background and text 🎨
+Color adjustments 🎨
 
 Click Generate to preview 👀.
 
@@ -69,6 +63,6 @@ PNG, JPG, JPEG, BMP
 
 ⚠️ Notes
 
-Large canvas sizes or very small tile sizes may take longer to generate ⏳.
+Large canvases or small tile sizes may take longer to generate ⏳.
 
-Font fallback: If arial.ttf is not available, a default Pillow font will be used 🔤.
+If arial.ttf is unavailable, a default Pillow font will be used 🔤.
