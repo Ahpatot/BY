@@ -38,10 +38,6 @@ Live Preview: See your mosaic directly in the app before saving.
 
 Save to PNG: Export your creations easily.
 
-Screenshots
-
-(Add screenshots here)
-
 Installation
 
 Make sure you have Python 3.x installed.
@@ -49,12 +45,6 @@ Make sure you have Python 3.x installed.
 Install required packages:
 
 pip install pillow
-
-
-Clone this repository:
-
-git clone https://github.com/yourusername/photo-to-text.git
-cd photo-to-text
 
 Usage
 
