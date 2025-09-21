@@ -1,0 +1,47 @@
+Photo to ASCII Art
+
+Convert any image into ASCII art using Python. This tool features a GUI for interactive preview, adjustable output sizes, and color support.
+
+Features
+
+Image to ASCII Conversion – Turn images into text-based art.
+
+Color Support – Preserve image colors in ASCII output.
+
+Custom Output Size – Adjust width/height (number of characters).
+
+Live Preview – See ASCII art before saving.
+
+Save Options – Export as .txt or .png.
+
+User-Friendly GUI – Built using Python Tkinter.
+
+Installation
+git clone https://github.com/yourusername/photo-to-ascii.git
+cd photo-to-ascii
+pip install pillow
+
+Usage
+
+Run the app:
+
+python Photo_to_text.py
+
+
+Load your image (PNG, JPG, JPEG, BMP).
+
+Adjust options: character width, height, and color mode.
+
+Click Generate to preview ASCII art.
+
+Save your output as .txt or .png.
+
+Supported Formats
+
+PNG, JPG, JPEG, BMP
+
+Notes
+
+Large images may take longer to process.
+
+If arial.ttf is unavailable, a default font will be used.
