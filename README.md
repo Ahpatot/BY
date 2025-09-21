@@ -22,13 +22,6 @@ A Python GUI tool that turns text into stunning mosaics using your own images fo
 
 🛠️ Installation
 
-Clone the repository and install dependencies:
-
-git clone https://github.com/yourusername/photo-to-text.git
-cd photo-to-text
-pip install pillow
-
-
 Run the app:
 
 python Photo_to_text.py
