@@ -1,26 +1,26 @@
-🖼️ Photo → Text Mosaic (GUI)
+Photo → Text Mosaic (GUI)
 
 A Python GUI tool that turns text into stunning mosaics using your own images for both text tiles and backgrounds.
 
-🚀 Features
+ Features
 
-📝 Text-to-Image Mosaic – Convert any text into a mosaic made from images.
+ Text-to-Image Mosaic – Convert any text into a mosaic made from images.
 
-🖼️ Custom Backgrounds – Use multiple images to create a dynamic backdrop.
+ Custom Backgrounds – Use multiple images to create a dynamic backdrop.
 
-🌈 Text Tiles – Fill text with images and adjust their size and color intensity.
+ Text Tiles – Fill text with images and adjust their size and color intensity.
 
-↩️ Multi-Line Text Support – Use Shift+Enter for line breaks.
+ Multi-Line Text Support – Use Shift+Enter for line breaks.
 
-↕️ Adjustable Line Spacing – Control spacing between text lines.
+ Adjustable Line Spacing – Control spacing between text lines.
 
-📐 Canvas Control – Set the width and height of your output image.
+ Canvas Control – Set the width and height of your output image.
 
-👀 Live Preview – See the mosaic in real-time inside the app.
+ Live Preview – See the mosaic in real-time inside the app.
 
-💾 Save as PNG – Export your artwork easily.
+ Save as PNG – Export your artwork easily.
 
-🛠️ Installation
+ Installation
 
 Run the app:
 
